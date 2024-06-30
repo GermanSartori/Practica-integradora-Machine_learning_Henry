@@ -11,7 +11,8 @@ Se entregan dos proyectos en formato .ipynb:
 
 
 
-3) Proyecto integrador 2 (2 archivos)
+2) Proyecto integrador 2 (2 archivos)
+   
     Estudio de mercado de una importante automotriz china.
    a) Implementación de un modelo de clasificación con aprendizaje supervisado que permita clasificar el precio de los vehículos en baratos y caros usando la mediana de los precios como punto de corte, utilizando los datos que se han puesto a su disposición.
    
