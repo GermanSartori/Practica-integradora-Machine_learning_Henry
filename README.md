@@ -16,7 +16,7 @@ Estudio de mercado de una importante automotriz china.
    
 a) Implementación de un modelo de clasificación con aprendizaje supervisado que permita clasificar el precio de los vehículos en baratos y caros usando la mediana de los precios como punto de corte, utilizando los datos que se han puesto a su disposición.
    
-![]([https://github.com/GermanSartori/Pr-ctica-integradora---Machine-learning---Henry/blob/main/src/1_hospital.png](https://github.com/GermanSartori/Pr-ctica-integradora---Machine-learning---Henry/blob/main/src/2_clasificacion.png))
+![](https://github.com/GermanSartori/Pr-ctica-integradora---Machine-learning---Henry/blob/main/src/2_clasificacion.png)
 
 
 
