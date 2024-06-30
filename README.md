@@ -6,7 +6,7 @@ Se entregan dos proyectos en formato .ipynb:
 1) Proyecto integrador 1 (1 archivo)
      Estudio de atención en salud para un hospital.
      Nuestro cliente desea saber las características más importantes que tienen los pacientes de cierto tipo de enfermedad que terminan en hospitalización.
-! [] (https://github.com/GermanSartori/Pr-ctica-integradora---Machine-learning---Henry/blob/main/src/1_hospital.png)
+![](https://github.com/GermanSartori/Pr-ctica-integradora---Machine-learning---Henry/blob/main/src/1_hospital.png)
 
 3) Proyecto integrador 2 (2 archivos)
     Estudio de mercado de una importante automotriz china.
